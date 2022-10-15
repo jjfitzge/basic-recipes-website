@@ -1,10 +1,11 @@
 # basic-recipes-website
 
-a simple recipe website just using HTML. The website displays some Halloween recipes along with some pictures!
+a simple recipe website just using HTML and basic CSS. The website displays some Halloween recipes along with some pictures!
 
 ## References ##
 
 ### Caramel Apples ###
+
 <https://www.allrecipes.com/recipe/21130/caramel-apples/>
 
 ### Hot Dog Mummies ###
