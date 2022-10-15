@@ -31,3 +31,15 @@ ol li,
 ul li {
     padding: 5px;
 }
+
+h3 {
+    color: white;
+    font-size: 25px;
+}
+
+p {
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+    padding: 15px;
+}
