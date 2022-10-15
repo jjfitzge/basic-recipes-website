@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+    color: orange;
+    font-size: 60px;
+}
+
+.container {
+    background-color: rgb(117, 0, 117);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.list {
+    background-color: orange;
+    font-size: 50px;
+}
+
+.image {
+    height: auto;
+    width: 300px;
+
+}
