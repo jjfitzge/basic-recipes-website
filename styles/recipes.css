@@ -16,6 +16,18 @@
 
 .image {
     height: auto;
-    width: 300px;
+    width: 500px;
 
+}
+
+ol,
+ul {
+    background-color: orange;
+    color: white;
+    font-size: 15px;
+}
+
+ol li,
+ul li {
+    padding: 5px;
 }
